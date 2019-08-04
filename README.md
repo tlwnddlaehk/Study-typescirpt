@@ -1,2 +1,0 @@
-# Study-typescirpt
-typescript learn
